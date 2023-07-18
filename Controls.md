@@ -2,9 +2,11 @@
 
 * Since the basic Unity N3DS guide doesn't provide the actual functions for the controls I thought I'd share them here
 
-## Horizontal and Vertical Movement
+## Horizontal and Vertical Movement (CIRCLE PAD)
 
-* Coming soon
+* Horizontal Movement - GamePad.CirclePad.x;
+
+* Vertical Movement GamePad.CirclePad.y;
 
 ## Buttons
 
