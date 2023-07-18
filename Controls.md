@@ -2,6 +2,8 @@
 
 * Since the basic Unity N3DS guide doesn't provide the actual functions for the controls I thought I'd share them here
 
+* MAKE SURE TO ADD "using UnityEngine.N3DS;" IN YOUR SCRIPT
+
 ## Horizontal and Vertical Movement (CIRCLE PAD)
 
 * Horizontal Movement - GamePad.CirclePad.x;
