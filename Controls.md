@@ -4,11 +4,30 @@
 
 * MAKE SURE TO ADD "using UnityEngine.N3DS;" IN YOUR SCRIPT
 
+* ALSO YOU SHOULD ADD
+
+    private void Start()
+    {
+        UnityEngine.N3DS.Keyboard.SetType(N3dsKeyboardType.Qwerty);
+    }
+
+*   IN YOUR SCRIPT TOO
+
 ## Horizontal and Vertical Movement (CIRCLE PAD)
 
 * Horizontal Movement - GamePad.CirclePad.x;
 
 * Vertical Movement GamePad.CirclePad.y;
+
+# DPAD
+
+* UnityEngine.N3DS.GamePad.GetButtonRelease(N3dsButton.Up) and UnityEngine.N3DS.GamePad.GetButtonHold(N3dsButton.Up)
+
+* UnityEngine.N3DS.GamePad.GetButtonRelease(N3dsButton.Down) and UnityEngine.N3DS.GamePad.GetButtonHold(N3dsButton.Down)
+
+* UnityEngine.N3DS.GamePad.GetButtonRelease(N3dsButton.Left) and UnityEngine.N3DS.GamePad.GetButtonHold(N3dsButton.Left)
+
+* UnityEngine.N3DS.GamePad.GetButtonRelease(N3dsButton.Right) and UnityEngine.N3DS.GamePad.GetButtonHold(N3dsButton.Right)
 
 ## Buttons
 
@@ -21,3 +40,4 @@
 * ZL Button - GamePad.GetButtonRelease(N3dsButton.ZL)    and     GamePad.GetButtonRelease(N3dsButton.ZL)
 * ZL Button - GamePad.GetButtonRelease(N3dsButton.ZR)    and     GamePad.GetButtonRelease(N3dsButton.ZR)
 * Start Button - GamePad.GetButtonRelease(N3dsButton.Start)      and     GamePad.GetButtonHold(N3dsButton.Start)
+
