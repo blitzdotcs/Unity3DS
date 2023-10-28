@@ -4,15 +4,6 @@
 
 * MAKE SURE TO ADD "using UnityEngine.N3DS;" IN YOUR SCRIPT
 
-* ALSO YOU SHOULD ADD
-
-    private void Start()
-    {
-        UnityEngine.N3DS.Keyboard.SetType(N3dsKeyboardType.Qwerty);
-    }
-
-*   IN YOUR SCRIPT TOO
-
 ## Horizontal and Vertical Movement (CIRCLE PAD)
 
 * Horizontal Movement - GamePad.CirclePad.x;
