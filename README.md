@@ -1,6 +1,6 @@
 # Unity3DS
 
-* Unity N3DS documentation by Blitzdotcs(me!).
+* Unity N3DS documentation by Natifyyy_(me!).
 
 * Unity 2017 with 3DS Build Support also found by me but originally backed up onto drive (google drive) by someone else.
 
