@@ -2,10 +2,10 @@
 
 * Unity Nintendo Switch documentation by Natifyyy_(me!).
 
-* No download for the SDK (Don't feel like getting sued.)
+* No download for the SDK. Kinda don't feel like getting sued. But if you do a quick search you'll find it sooner or later.
 
 ## Table Of Contents
 
-* [Controls](https://github.com/Blitzexlmao/Unity3DS/blob/main/Controls/README.md) - The markdown file that tells how the controls work
+* [Controls](https://github.com/natifygh/Unity/blob/NintendoSwitch/Controls/README.md) - The markdown file that tells how the controls work
 
-* [Scripts](https://github.com/Blitzexlmao/Unity3DS/blob/main/Scripts/README.md) - The markdown file that tells how the controls work
+* [Scripts](https://github.com/natifygh/Unity/blob/NintendoSwitch/Scripts/README.md) - The markdown file that tells how the controls work
